@@ -28,11 +28,11 @@ export class CreateUserUseCase {
         email: data.email,
       },
       from: {
-        name: "Equipe do Meu App",
-        email: "equipe@meuapp.com",
+        name: "My App Time",
+        email: "time@myapp.com",
       },
-      subject: "Seja bem-vindo à plataforma",
-      body: "<p>Você já pode fazer login em nossa plataforma.</p>",
+      subject: "Welcome to the platform",
+      body: "<p>You can now login to our platform.</p>",
     });
   }
 }
