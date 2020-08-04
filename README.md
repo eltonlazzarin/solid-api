@@ -93,7 +93,7 @@ $ yarn start
 # Clone your fork
 $ git clone https://github.com/eltonlazzarin/solid-api.git
 
-$ cd monsolid-apiorepo
+$ cd solid-api
 
 # Create a branch with your feature
 $ git checkout -b your-feature
