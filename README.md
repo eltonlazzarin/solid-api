@@ -30,6 +30,14 @@
 
 ## 👨🏻‍💻 About the project
 
+<h1 align="center">
+	<img alt="Insomnia" src="https://github.com/eltonlazzarin/solid-api/blob/master/screenshots/insomnia.png" />
+</h1>
+
+<h1 align="center">
+	<img alt="Mailtrap" src="https://github.com/eltonlazzarin/solid-api/blob/master/screenshots/mailtrap.jpg" />
+</h1>
+
 <p>
 SOLID Principles is a coding standard that all developers should have a clear concept for developing software properly to avoid a bad design. It was promoted by Robert C Martin and is used across the object-oriented design spectrum. When applied properly it makes your code more extendable, logical, and easier to read.
 
