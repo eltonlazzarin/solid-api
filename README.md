@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Discord logo" src="https://github.com/eltonlazzarin/monorepo/blob/master/assets/monorepo.svg" height="150px" width="150px" />
+	<img alt="Discord logo" src="https://github.com/eltonlazzarin/solid-api/blob/master/screenshots/readmebanner.png" height="150px" width="550px" />
 </h1>
 
 <h3 align="center">
