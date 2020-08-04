@@ -35,6 +35,8 @@ SOLID Principles is a coding standard that all developers should have a clear co
 
 So, I decided to study and I created a simple SOLID API with Node.js and TypeScript.
 
+This project consists of sending welcome emails after creating a registration in the application via Insomnia.
+
 </p>
 
 ## 🚀 Technologies
